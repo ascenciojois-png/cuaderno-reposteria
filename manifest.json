@@ -1,0 +1,15 @@
+{
+  "name": "Cuaderno de Repostería",
+  "short_name": "Repostería",
+  "description": "Tus recetas, moldes e insumos, en un solo lugar",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF4F1",
+  "theme_color": "#8C4A4E",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
